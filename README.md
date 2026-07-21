@@ -34,7 +34,7 @@ This project analyzes transactional data from three coffee shop locations in NYC
 
 This interactive dashboard was designed following modern UI/UX data visualization principles:
 
-* **Data Cleaning & Engineering:** Processed raw transaction timestamps into structured time attributes (`Hour`, `Day_Name`, `Month`).
+* **Data Cleaning & Engineering:** Processed raw transaction timestamps into structured time attributes (`Hour`, `Day`).
 * **Dynamic KPI Cards:** Displays core metrics (*Total Revenue*, *Total Transactions*, *Average Order Value*) using dynamic formulas.
 * **Interactive Navigation Sidebar:**
   * **Location Slicer:** Filters data instantly by store location.
