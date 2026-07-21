@@ -53,7 +53,6 @@ This interactive dashboard was designed following modern UI/UX data visualizatio
 
 A custom VBA macro was integrated to clear all active slicers and timelines with a single click:
 
-```vba
 Sub ClearAllFilters()
     Dim sc As SlicerCache
     On Error Resume Next
@@ -62,3 +61,24 @@ Sub ClearAllFilters()
     Next sc
     On Error GoTo 0
 End Sub
+
+---
+
+## 📁 Repository Structure
+
+├── NYC_Coffee_Shop_Dashboard.xlsm   # Final Interactive Excel Dashboard (Macro-Enabled)
+├── dashboard_preview.png            # High-resolution dashboard screenshot
+├── Coffee Shop Sales.csv            # Raw dataset
+└── README.md                        # Project documentation & business insights
+
+---
+
+## 👩‍💻 Author & Contact
+
+**Hana Maisarah**  
+*Data Analyst Portfolio Project*  
+* **LinkedIn:** https://www.linkedin.com/in/hana-maisarah-309a33294/
+* **Email:** hanamaisarah2004@gmail.com
+
+---
+*If you find this project insightful, feel free to give it a ⭐️ star!*
