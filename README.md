@@ -1,4 +1,4 @@
-# ☕ NYC Coffee Shop Performance Dashboard (2023)
+# ☕ NYC Coffee Shop Performance Dashboard
 > An end-to-end data analytics and interactive dashboard project built using Microsoft Excel to analyze sales trends, operational peak hours, and product category performance for a coffee shop chain in New York City.
 
 ---
