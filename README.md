@@ -71,7 +71,7 @@ End Sub
 ```text
 ├── NYC_Coffee_Shop_Dashboard.xlsm   # Final Interactive Excel Dashboard (Macro-Enabled)
 ├── dashboard_preview.png            # High-resolution dashboard screenshot
-├── Coffee Shop Sales.xlsx            # Raw dataset
+├── Coffee Shop Sales.xlsx           # Raw dataset
 └── README.md                        # Project documentation & business insights
 ```
 
