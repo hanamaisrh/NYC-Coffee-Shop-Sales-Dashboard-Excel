@@ -3,17 +3,6 @@
 
 ---
 
-## 📁 Repository Structure
-
-```text
-├── NYC_Coffee_Shop_Dashboard.xlsm   # Final Interactive Excel Dashboard (Macro-Enabled)
-├── dashboard_preview.png            # High-resolution dashboard screenshot
-├── Coffee Shop Sales.csv            # Raw dataset
-└── README.md                        # Project documentation & business insights
-```
-
----
-
 ## 🖼️ Dashboard Preview
 
 ![NYC Coffee Shop Dashboard](dashboard_preview.png)
@@ -73,6 +62,17 @@ Sub ClearAllFilters()
     Next sc
     On Error GoTo 0
 End Sub
+```
+
+---
+
+## 📁 Repository Structure
+
+```text
+├── NYC_Coffee_Shop_Dashboard.xlsm   # Final Interactive Excel Dashboard (Macro-Enabled)
+├── dashboard_preview.png            # High-resolution dashboard screenshot
+├── Coffee Shop Sales.csv            # Raw dataset
+└── README.md                        # Project documentation & business insights
 ```
 
 ---
